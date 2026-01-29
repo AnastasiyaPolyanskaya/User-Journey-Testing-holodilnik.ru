@@ -1,4 +1,4 @@
-# User-Journey-Testing-holodilnik.ru
+# User-Journey-Testing-holodilnik.ru.
 
 
 Практический проект по исследовательскому, функциональному и UI/UX-тестированию пользовательских путей интернет-магазина holodilnik.ru на платформах Web и Mobile.
