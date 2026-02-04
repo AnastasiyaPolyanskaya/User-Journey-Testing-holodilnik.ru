@@ -1,4 +1,4 @@
-# 04-Favorites and Popular Products UX Testing — holodilnik.ru
+# 04-Favorites and Popular Products UX Testing - holodilnik.ru
 
 Практический учебный проект по ручному тестированию пользовательского опыта и интерфейсных элементов интернет-магазина holodilnik.ru.
 
